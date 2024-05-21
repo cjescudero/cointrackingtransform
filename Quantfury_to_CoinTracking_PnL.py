@@ -9,7 +9,7 @@ import os
 warnings.filterwarnings("ignore", category=UserWarning, module='openpyxl')
 
 # Define the directory containing the files
-directory = 'Historiales de Quantfury'
+directory = 'History from Quantfury'
 
 # Initialize an empty DataFrame to store all the data
 all_data = pd.DataFrame()
